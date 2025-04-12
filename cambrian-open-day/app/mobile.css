@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .grid-pattern-bg {
+    background-image: url("/grid-pattern-mobile.svg") !important;
+  }
+
+  .monaco-editor {
+    font-size: 12px !important;
+  }
+
+  .challenge-container {
+    height: 400px !important;
+  }
+
+  .countdown-timer-container {
+    gap: 0.5rem !important;
+  }
+
+  .countdown-timer-card {
+    padding: 0.5rem !important;
+  }
+
+  .countdown-timer-value {
+    font-size: 1.5rem !important;
+  }
+}
